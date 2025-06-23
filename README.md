@@ -53,7 +53,7 @@ red-pill-protocol/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/red-pill-protocol.git
+git clone https://github.com/oxbshw/red-pill-protocol.git
 cd red-pill-protocol
 ```
 
